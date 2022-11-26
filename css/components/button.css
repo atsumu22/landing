@@ -9,3 +9,8 @@
 .btn-ovalgreen a {
   text-decoration: none;
 }
+
+.btn-ovalgreen:hover {
+  scale: 1.5;
+  transition: all 0.4s;
+}

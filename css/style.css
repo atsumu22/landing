@@ -31,3 +31,8 @@ a {
 .text-center {
   text-align: center;
 }
+
+.bg-white {
+  background-color: rgb(210, 208, 208, 0.5);
+  padding: 120px 0;
+}
