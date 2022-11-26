@@ -1,0 +1,16 @@
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.list-inline li a {
+  text-decoration: none;
+  color: #1EDD88;
+  font-size: 30px;
+  font-weight: 400;
+}

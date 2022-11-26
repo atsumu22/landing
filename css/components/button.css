@@ -1,0 +1,11 @@
+.btn-ovalgreen {
+  display: inline-block;
+  padding: 16px 36px;
+  border-radius: 50px;
+  background-color: #1EDD88;
+  color: white;
+}
+
+.btn-ovalgreen a {
+  text-decoration: none;
+}
